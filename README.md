@@ -1,3 +1,9 @@
+# О чем здесь речь
+
+Реализуем функциональный компонент для React. В качестве менеджера пакетов используем yarn.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
